@@ -6,7 +6,7 @@ import Destination from './components/Destination';
 import Packages from './components/Packages';
 import Blog from './components/Blog';
 import Contact from './components/Contact';
-import Footer from './components/Footer';
+
 import './App.css';
 
 
@@ -20,7 +20,7 @@ function App() {
       <Packages />
       <Blog />
       <Contact />
-      <Footer />
+      
     </div>
   );
 }
